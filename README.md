@@ -17,13 +17,3 @@
 <img data-importer="image" align="right" height="150" src="https://cdn.discordapp.com/avatars/772546533203247115/f871fae33eeee6ef0ab1e596172a9e7b.png?size=4096"  />
 
 ###
-
-<br clear="both">
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7mn0/7mn0/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/7mn0/7mn0/pacman-output/breakout-contribution-graph.svg?game=breakout">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/7mn0/7mn0/pacman-output/breakout-contribution-graph.svg?game=breakout">
-</picture>
-
-###
