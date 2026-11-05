@@ -2,11 +2,6 @@
 
 ###
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://count.getloli.com/@:7mn0?theme=morden-num&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
-</div>
-
-###
 
 <div data-importer="socials" align="left">
   <a href="https://www.youtube.com/@ThailandCodes" target="_blank">
